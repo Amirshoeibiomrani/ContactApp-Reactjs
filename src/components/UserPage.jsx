@@ -4,7 +4,8 @@ import UserList from './UserList'
 const UserPage = () => {
   return (
     <div>
-        <UserList />
+        <UserList /> 
+        
     </div>
   )
 }
